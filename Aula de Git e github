@@ -1,0 +1,11 @@
+- Anteriormente o Git era da BitKeeper;
+- Git é do Linux;
+- Git commit manda pro servidor;
+- Atualizações é com o git pull, busca os ultimos movimentos; 
+- Sempre fazer isso antes de mandar;
+
+Git é um sistema de versão distribuido;
+Github é pra controle de versão com Git, e colaboração;
+2018 foi quando a microsoft comprou o Github
+
+O GITHUB é o servidor onde fica armazenado os projetos
